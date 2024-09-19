@@ -1,6 +1,6 @@
 # Homework Assignment 8
 
-![Assignment 8](https://github.com/PGE323M/assignment8-solution/workflows/.github/workflows/main.yml/badge.svg)
+![Assignment 8](https://github.com/PGE323M/assignment8/workflows/.github/workflows/main.yml/badge.svg)
 
 Open the [Assignment 8 Jupyter Notebook](assignment8.ipynb) and follow the instructions.
 
